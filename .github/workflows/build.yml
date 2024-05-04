@@ -20,4 +20,4 @@ jobs:
           context: .
           platforms: linux/amd64,linux/arm64
           push: true
-          tags: nexryai/camera.ui:alpine
+          tags: hihumikan/camera.ui:alpine
